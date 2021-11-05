@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Progress-Steps-React/static/css/main.edc1bd97.chunk.css",
+    "main.js": "/Progress-Steps-React/static/js/main.778704c4.chunk.js",
+    "main.js.map": "/Progress-Steps-React/static/js/main.778704c4.chunk.js.map",
+    "runtime-main.js": "/Progress-Steps-React/static/js/runtime-main.6fb99c60.js",
+    "runtime-main.js.map": "/Progress-Steps-React/static/js/runtime-main.6fb99c60.js.map",
+    "static/js/2.2fd88066.chunk.js": "/Progress-Steps-React/static/js/2.2fd88066.chunk.js",
+    "static/js/2.2fd88066.chunk.js.map": "/Progress-Steps-React/static/js/2.2fd88066.chunk.js.map",
+    "static/js/3.446e991c.chunk.js": "/Progress-Steps-React/static/js/3.446e991c.chunk.js",
+    "static/js/3.446e991c.chunk.js.map": "/Progress-Steps-React/static/js/3.446e991c.chunk.js.map",
+    "index.html": "/Progress-Steps-React/index.html",
+    "static/css/main.edc1bd97.chunk.css.map": "/Progress-Steps-React/static/css/main.edc1bd97.chunk.css.map",
+    "static/js/2.2fd88066.chunk.js.LICENSE.txt": "/Progress-Steps-React/static/js/2.2fd88066.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fb99c60.js",
+    "static/js/2.2fd88066.chunk.js",
+    "static/css/main.edc1bd97.chunk.css",
+    "static/js/main.778704c4.chunk.js"
+  ]
+}
